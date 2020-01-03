@@ -35,12 +35,12 @@ https://www.ancestry.com/interactive/2469/1583152?pid=63225262&backurl=https://s
 U.S. City Directories, 1822-1995 for John Calabrlsi
 New York East Rochester 1947 East Rochester, New York, City Directory, 1947
 MATCH: John, Mary, Steve
-CHECK: Mellie, lives just up the road and may have married a Calabresi
+CHECK: Mellie, lives just up the road and may have married a Calabresi - it's probably a different Mellie
 
 U.S. City Directories, 1822-1995 for John Calabrese
 New York East Rochester 1945 East Rochester, New York, City Directory, 1945
 MATCH: John, Mary
-CHECK: Mellie, lives just up the road and may have married a Calabresi
+CHECK: Mellie, lives just up the road and may have married a Calabresi - it's probably a different Mellie
 
 New York, Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957
 Roll T715, 1897-1957 1001-2000 Roll 1506
@@ -48,3 +48,9 @@ https://www.ancestry.com/interactive/7488/NYT715_1506-0092?pid=4033653494&backur
 24 Jun 1910
 Ship Name:	Tomaso Di Savoia
 CHECK THIS FURTHER AND VERIFY
+
+New York, Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957
+Roll T715, 1897-1957 1001-2000 Roll 1401
+Maria Scarfone
+NOT A MATCH
+
